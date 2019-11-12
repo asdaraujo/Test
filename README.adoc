@@ -1,0 +1,3 @@
+= Test
+
+. link:README2.adoc[Second README]
